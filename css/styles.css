@@ -1,0 +1,84 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.topp {
+  background: rgb(255, 230, 179);
+  margin: 0;
+}
+
+.header {
+  text-align: center;
+}
+
+.main-body {
+  background: rgb(242, 242, 242);
+  min-height: 650px;
+  max-height: auto;
+  padding-bottom: 0;
+}
+
+.main-cont {
+  margin: 0;
+  padding: 0;
+}
+
+.small{
+  background: rgb(102, 204, 153);
+  margin: 0;
+  min-height: 650px;
+  max-height: auto;
+}
+
+.small h4 {
+  color: rgb(255, 230, 179);
+  font-weight: lighter;
+  font-size: 13px;
+}
+
+.small h3 {
+  color: #000;
+  font-weight: lighter;
+  font-size: 15px;
+}
+
+.small p {
+  color: #fff;
+  font-size: 15px;
+}
+
+.large {
+  min-height: 650px;
+  max-height: auto;
+  padding-left: 60px;
+}
+
+.large h3 {
+  font-size: 20px;
+  color: #000;
+  font-weight: 100;
+}
+
+.btn {
+  margin: 10px -10px;
+}
+
+.enter {
+  margin: 20px 0;
+  font-size: 10px;
+}
+
+#usr {
+  margin: 10px -50px;
+}
+
+.large p {
+
+}
+
+.main-row {
+  margin: 0;
+  padding: 0;
+  min-height: 500px;
+}
