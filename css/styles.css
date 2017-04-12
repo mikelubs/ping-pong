@@ -146,9 +146,39 @@
   color: #fff;
 }
 
+.small1 a {
+  text-decoration: none;
+}
+
+.small1 a:hover {
+  color: rgb(51, 0, 51);
+  font-size: 1.6em;
+}
+
 .bott {
   background: rgb(77, 31, 0);
   padding: 0;
   padding-top: 4px;
   margin: 0;
+}
+
+.fa-github-alt {
+  font-size: 2.0em;
+  text-align: center;
+  color: #000;
+  padding: 2px;
+}
+
+.fa-facebook-official {
+  font-size: 2.0em;
+  text-align: center;
+  color: #0000ff;
+  padding: 2px;
+}
+
+.fa-coffee {
+  font-size: 2.0em;
+  text-align: center;
+  color: #cc0000;
+  padding: 2px;
 }
