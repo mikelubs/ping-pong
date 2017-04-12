@@ -91,6 +91,11 @@
   margin: 2px 0 0 8px;
 }
 
+.btn:hover {
+  background: rgb(51, 0, 51);
+  color: #fff;
+}
+
 #myNumber {
   margin: 8px 0 0 8px;
 }
