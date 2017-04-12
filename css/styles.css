@@ -61,26 +61,33 @@
 }
 
 .large h3 {
-  font-size: 20px;
+  font-family: 'Cookie', cursive;
+  font-size: 40px;
   color: rgb(51, 0, 51);
   font-weight: 100;
   letter-spacing: 1px;
+  margin-bottom: 45px;
 }
 
 .large h4 {
   color: rgb(255, 204, 255);
   letter-spacing: 1px;
+  font-family: 'Delius Swash Caps', cursive;
+  font-size: 1.9em;
 }
 
 .large p {
    color: #fff;
    letter-spacing: 1px;
+   font-family: 'Delius', cursive;
 }
 
 .large li {
   color: rgb(51, 0, 51);
   line-height: 24px;
   letter-spacing: 1px;
+  font-size: 1.2em;
+  font-family: 'Delius', cursive;
 }
 
 .large ol {
@@ -106,6 +113,7 @@
 .btn {
   margin: 2px 0 0 8px;
   color: rgb(51, 0, 51);
+  font-family: 'Ruluko', sans-serif;
 }
 
 .btn:hover {
@@ -125,6 +133,8 @@
   margin-top: 15px;
   color: rgb(255, 204, 255);
   font-weight: bold;
+  letter-spacing: 1px;
+  line-height: 24px;
 }
 
 .small1 {
