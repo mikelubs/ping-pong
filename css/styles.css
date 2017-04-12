@@ -28,7 +28,7 @@
   background: rgb(102, 204, 153);
   margin: 0;
   min-height: 650px;
-  max-height: auto;
+  max-height: 100%!important;
 }
 
 .small h4 {
@@ -81,4 +81,5 @@
   margin: 0;
   padding: 0;
   min-height: 500px;
+  max-height: auto;
 }
