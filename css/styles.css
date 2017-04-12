@@ -45,16 +45,30 @@
   min-height: auto;
   max-height: auto;
   padding-left: 60px;
+  padding-right: 30px;
 }
 
 .large h3 {
   font-size: 20px;
-  color: #000;
+  color: rgb(51, 0, 51);
   font-weight: 100;
+  letter-spacing: 1px;
+}
+
+.large h4 {
+  color: rgb(255, 204, 255);
+  letter-spacing: 1px;
 }
 
 .large p {
+   color: #fff;
+   letter-spacing: 1px;
+}
 
+.large li {
+  color: rgb(51, 0, 51);
+  line-height: 24px;
+  letter-spacing: 1px;
 }
 
 .main-row2 {
@@ -71,4 +85,12 @@
 .main-body2 {
   margin: 0;
   padding: 0;
+}
+
+.btn {
+  margin: 2px 0 0 8px;
+}
+
+#myNumber {
+  margin: 8px 0 0 8px;
 }
