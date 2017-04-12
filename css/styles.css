@@ -5,8 +5,8 @@
   color: #fff;
 }
 
-.topp h1 {
-  font-family: font-family: 'Pacifico', sans-serif;
+.header h1 {
+  font-family: 'Pacifico', sans-serif!important;
 }
 
 .header {
