@@ -94,3 +94,8 @@
 #myNumber {
   margin: 8px 0 0 8px;
 }
+
+#demo {
+  margin-top: 15px;
+  color: rgb(255, 204, 255);
+}
