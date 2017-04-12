@@ -75,6 +75,10 @@
   letter-spacing: 1px;
 }
 
+.large ol {
+  padding-bottom: 30px;
+}
+
 .main-row2 {
   margin: 0;
   padding: 0;
