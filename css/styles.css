@@ -126,3 +126,19 @@
   color: rgb(255, 204, 255);
   font-weight: bold;
 }
+
+.small1 {
+  padding: 5px;
+}
+
+.footer {
+  text-align: center;
+  color: #fff;
+}
+
+.bott {
+  background: rgb(77, 31, 0);
+  padding: 0;
+  padding-top: 4px;
+  margin: 0;
+}
