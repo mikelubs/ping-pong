@@ -23,3 +23,12 @@ function myFunction() {
 
     document.getElementById("demo").innerHTML = text;
 }
+
+$(document).ready(function(){
+  $("input#myNumber").click(function(){
+    $("#demo").slideUp();
+  });
+  $(".btn").click(function(){
+    $("#demo").slideDown();
+  });
+});
