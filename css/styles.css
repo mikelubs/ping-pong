@@ -126,6 +126,19 @@
   color: #000;
 }
 
+.btn2 {
+  margin: 5px 0 0 8px;
+  color: rgb(255, 204, 255);
+  font-family: 'Ruluko', sans-serif;
+  background: #331a00;
+  display: none;
+}
+
+.btn2:hover {
+  background: #fff;
+  color: #000;
+}
+
 #myNumber {
   margin: 8px 0 0 8px;
 }

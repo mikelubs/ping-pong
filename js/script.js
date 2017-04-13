@@ -27,8 +27,17 @@ function myFunction() {
 $(document).ready(function(){
   $("input#myNumber").click(function(){
     $("#demo").slideUp();
+    $(".btn2").fadeOut();
   });
+
   $(".btn").click(function(){
     $("#demo").slideDown();
+    $(".btn2").fadeIn();
   });
+
+  $(".btn2").click(function(){
+    $("#demo").slideUp();
+    $(".btn2").fadeOut();
+  });
+
 });
