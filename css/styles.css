@@ -23,6 +23,12 @@
   text-align: center;
 }
 
+.logo {
+  border-radius: 90%;
+  padding: 5px;
+  margin: 0 70px 0 0;
+}
+
 .main-body {
   background: rgb(204, 102, 0);
   height: auto;

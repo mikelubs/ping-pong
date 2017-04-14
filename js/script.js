@@ -7,17 +7,14 @@ function myFunction() {
       if (z%3 == 0 && z%5 == 0) {
         text += "ping-pong" + "<br>";
       }
-
         else if (z%3 == 0) {
           text += "ping" + "<br>";
         }
-
         else if (z%5 == 0) {
           text += "pong" + "<br>";
         }
-
         else {
-          text += "" + z + "<br>";
+          text += " " + z + "<br>";
         }
     }
 
