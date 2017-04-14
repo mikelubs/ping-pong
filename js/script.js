@@ -37,4 +37,9 @@ $(document).ready(function(){
     $(".btn2").fadeOut();
   });
 
+  $('h1').hover(function() {
+     $('img').fadeOut(300);
+     $('img').fadeIn(1200);
+  });
+
 });

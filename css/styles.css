@@ -128,8 +128,10 @@
 }
 
 .btn:hover {
-  background: #fff;
-  color: #000;
+  content:'';
+	background: #fff;
+	border-radius: 5px;
+	transition: all 1s ease;
 }
 
 .btn2 {
